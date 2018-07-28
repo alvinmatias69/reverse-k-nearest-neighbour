@@ -1,0 +1,6 @@
+[package]
+name = "reverse_nearest_neighbour"
+version = "0.1.0"
+authors = ["Matias Alvin <alvinmatias@protonmail.com>"]
+
+[dependencies]
